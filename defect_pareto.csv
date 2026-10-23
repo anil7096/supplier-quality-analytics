@@ -1,0 +1,19 @@
+defect_type,n,pct
+Dimension out of tolerance,384,23.2
+Thread damage,199,12.0
+Burr,171,10.3
+Plating defect,136,8.2
+Surface finish,111,6.7
+Flash,83,5.0
+Short shot,81,4.9
+Loose crimp,72,4.3
+Load out of spec,58,3.5
+Crack,55,3.3
+Wrong grade,54,3.3
+Wrong connector,51,3.1
+Free-length error,47,2.8
+Surface scratch,39,2.4
+Insulation damage,33,2.0
+Rust,31,1.9
+Colour variation,27,1.6
+Continuity fail,24,1.4

@@ -1,0 +1,17 @@
+part_id,category,part_name,unit_cost_inr
+P001,Stamped,Bracket,545
+P002,Stamped,Panel,35
+P003,Stamped,Reinforcement,317
+P004,Machined,Shaft,397
+P005,Machined,Housing,884
+P006,Machined,Gear blank,199
+P007,Rubber/Plastic,Seal,254
+P008,Rubber/Plastic,Gasket,372
+P009,Rubber/Plastic,Clip,893
+P010,Electrical,Harness,769
+P011,Electrical,Connector,38
+P012,Fastener,Bolt,216
+P013,Fastener,Nut,740
+P014,Fastener,Washer,60
+P015,Spring,Coil spring,771
+P016,Spring,Clutch spring,258

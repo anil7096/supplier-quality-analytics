@@ -1,0 +1,1657 @@
+lot_id,defect_type
+L00001,Surface finish
+L00001,Dimension out of tolerance
+L00001,Surface finish
+L00001,Dimension out of tolerance
+L00002,Dimension out of tolerance
+L00003,Thread damage
+L00003,Thread damage
+L00003,Surface finish
+L00003,Dimension out of tolerance
+L00006,Dimension out of tolerance
+L00007,Flash
+L00007,Short shot
+L00008,Burr
+L00008,Dimension out of tolerance
+L00015,Short shot
+L00016,Surface finish
+L00016,Surface finish
+L00017,Burr
+L00017,Surface scratch
+L00020,Crack
+L00020,Crack
+L00020,Burr
+L00020,Burr
+L00022,Dimension out of tolerance
+L00022,Dimension out of tolerance
+L00023,Surface finish
+L00025,Flash
+L00025,Short shot
+L00025,Flash
+L00025,Flash
+L00027,Loose crimp
+L00027,Loose crimp
+L00029,Surface finish
+L00030,Crack
+L00031,Dimension out of tolerance
+L00031,Dimension out of tolerance
+L00032,Dimension out of tolerance
+L00032,Burr
+L00033,Colour variation
+L00033,Short shot
+L00034,Dimension out of tolerance
+L00036,Loose crimp
+L00037,Burr
+L00037,Crack
+L00038,Surface scratch
+L00040,Short shot
+L00040,Flash
+L00040,Colour variation
+L00043,Surface finish
+L00044,Flash
+L00046,Burr
+L00046,Burr
+L00048,Continuity fail
+L00048,Continuity fail
+L00048,Wrong connector
+L00049,Dimension out of tolerance
+L00051,Dimension out of tolerance
+L00051,Thread damage
+L00052,Burr
+L00052,Burr
+L00052,Crack
+L00053,Thread damage
+L00054,Flash
+L00054,Flash
+L00054,Short shot
+L00054,Short shot
+L00055,Dimension out of tolerance
+L00055,Dimension out of tolerance
+L00055,Dimension out of tolerance
+L00057,Loose crimp
+L00057,Loose crimp
+L00058,Surface finish
+L00058,Surface finish
+L00059,Surface finish
+L00059,Surface finish
+L00060,Insulation damage
+L00061,Short shot
+L00061,Flash
+L00062,Continuity fail
+L00062,Wrong connector
+L00063,Dimension out of tolerance
+L00064,Short shot
+L00064,Colour variation
+L00065,Dimension out of tolerance
+L00066,Continuity fail
+L00067,Dimension out of tolerance
+L00067,Burr
+L00067,Dimension out of tolerance
+L00067,Burr
+L00070,Dimension out of tolerance
+L00070,Burr
+L00071,Rust
+L00080,Surface finish
+L00082,Plating defect
+L00084,Free-length error
+L00084,Load out of spec
+L00085,Dimension out of tolerance
+L00086,Dimension out of tolerance
+L00088,Wrong grade
+L00089,Plating defect
+L00089,Plating defect
+L00090,Dimension out of tolerance
+L00090,Thread damage
+L00090,Wrong grade
+L00090,Thread damage
+L00092,Thread damage
+L00093,Wrong grade
+L00093,Dimension out of tolerance
+L00094,Wrong grade
+L00098,Plating defect
+L00100,Plating defect
+L00101,Surface finish
+L00101,Surface finish
+L00102,Burr
+L00103,Free-length error
+L00104,Wrong grade
+L00106,Surface finish
+L00106,Burr
+L00106,Dimension out of tolerance
+L00106,Surface finish
+L00109,Dimension out of tolerance
+L00110,Burr
+L00110,Surface finish
+L00111,Free-length error
+L00112,Plating defect
+L00114,Dimension out of tolerance
+L00116,Dimension out of tolerance
+L00117,Burr
+L00119,Free-length error
+L00124,Load out of spec
+L00124,Dimension out of tolerance
+L00124,Free-length error
+L00125,Plating defect
+L00126,Dimension out of tolerance
+L00127,Rust
+L00127,Dimension out of tolerance
+L00127,Dimension out of tolerance
+L00128,Plating defect
+L00129,Plating defect
+L00129,Thread damage
+L00135,Plating defect
+L00135,Dimension out of tolerance
+L00135,Thread damage
+L00137,Plating defect
+L00139,Wrong grade
+L00139,Thread damage
+L00145,Surface finish
+L00145,Dimension out of tolerance
+L00147,Burr
+L00147,Dimension out of tolerance
+L00147,Burr
+L00147,Surface scratch
+L00147,Surface scratch
+L00148,Free-length error
+L00148,Dimension out of tolerance
+L00148,Load out of spec
+L00148,Load out of spec
+L00148,Dimension out of tolerance
+L00149,Burr
+L00149,Surface scratch
+L00150,Burr
+L00151,Load out of spec
+L00151,Free-length error
+L00151,Load out of spec
+L00152,Plating defect
+L00152,Plating defect
+L00153,Surface scratch
+L00153,Crack
+L00153,Dimension out of tolerance
+L00153,Burr
+L00153,Burr
+L00153,Burr
+L00153,Crack
+L00154,Free-length error
+L00154,Free-length error
+L00155,Burr
+L00156,Load out of spec
+L00158,Load out of spec
+L00158,Rust
+L00158,Load out of spec
+L00158,Free-length error
+L00158,Free-length error
+L00158,Rust
+L00158,Free-length error
+L00158,Free-length error
+L00159,Thread damage
+L00159,Plating defect
+L00159,Thread damage
+L00159,Plating defect
+L00160,Dimension out of tolerance
+L00160,Thread damage
+L00161,Thread damage
+L00161,Plating defect
+L00161,Plating defect
+L00161,Dimension out of tolerance
+L00161,Dimension out of tolerance
+L00161,Wrong grade
+L00161,Dimension out of tolerance
+L00161,Thread damage
+L00161,Plating defect
+L00162,Surface scratch
+L00163,Plating defect
+L00163,Dimension out of tolerance
+L00163,Dimension out of tolerance
+L00163,Dimension out of tolerance
+L00163,Plating defect
+L00163,Thread damage
+L00163,Dimension out of tolerance
+L00164,Dimension out of tolerance
+L00164,Crack
+L00165,Plating defect
+L00165,Thread damage
+L00167,Dimension out of tolerance
+L00167,Thread damage
+L00167,Plating defect
+L00167,Wrong grade
+L00168,Load out of spec
+L00168,Rust
+L00168,Free-length error
+L00168,Load out of spec
+L00168,Rust
+L00168,Dimension out of tolerance
+L00168,Rust
+L00168,Load out of spec
+L00169,Dimension out of tolerance
+L00169,Dimension out of tolerance
+L00169,Burr
+L00169,Burr
+L00169,Burr
+L00169,Crack
+L00169,Burr
+L00169,Burr
+L00169,Dimension out of tolerance
+L00170,Thread damage
+L00170,Plating defect
+L00170,Plating defect
+L00170,Plating defect
+L00170,Thread damage
+L00170,Thread damage
+L00171,Plating defect
+L00171,Plating defect
+L00172,Free-length error
+L00172,Rust
+L00173,Thread damage
+L00173,Plating defect
+L00174,Dimension out of tolerance
+L00174,Dimension out of tolerance
+L00174,Crack
+L00174,Burr
+L00174,Burr
+L00175,Dimension out of tolerance
+L00175,Dimension out of tolerance
+L00175,Burr
+L00175,Crack
+L00176,Load out of spec
+L00176,Free-length error
+L00176,Rust
+L00177,Free-length error
+L00177,Free-length error
+L00177,Free-length error
+L00178,Free-length error
+L00178,Rust
+L00178,Rust
+L00178,Free-length error
+L00179,Burr
+L00179,Dimension out of tolerance
+L00179,Burr
+L00180,Load out of spec
+L00180,Free-length error
+L00181,Thread damage
+L00181,Dimension out of tolerance
+L00181,Thread damage
+L00182,Dimension out of tolerance
+L00182,Rust
+L00184,Plating defect
+L00184,Thread damage
+L00184,Thread damage
+L00184,Thread damage
+L00184,Thread damage
+L00185,Dimension out of tolerance
+L00185,Burr
+L00185,Dimension out of tolerance
+L00185,Crack
+L00185,Surface scratch
+L00185,Dimension out of tolerance
+L00185,Burr
+L00185,Dimension out of tolerance
+L00186,Plating defect
+L00186,Thread damage
+L00186,Plating defect
+L00186,Plating defect
+L00186,Wrong grade
+L00186,Thread damage
+L00186,Plating defect
+L00187,Load out of spec
+L00187,Rust
+L00187,Rust
+L00187,Load out of spec
+L00187,Free-length error
+L00187,Free-length error
+L00187,Rust
+L00187,Rust
+L00187,Free-length error
+L00187,Free-length error
+L00187,Load out of spec
+L00188,Thread damage
+L00188,Thread damage
+L00188,Plating defect
+L00188,Thread damage
+L00188,Thread damage
+L00189,Dimension out of tolerance
+L00190,Load out of spec
+L00190,Load out of spec
+L00190,Load out of spec
+L00192,Burr
+L00192,Surface scratch
+L00192,Dimension out of tolerance
+L00193,Dimension out of tolerance
+L00193,Dimension out of tolerance
+L00193,Surface scratch
+L00193,Burr
+L00194,Dimension out of tolerance
+L00194,Dimension out of tolerance
+L00194,Dimension out of tolerance
+L00194,Burr
+L00194,Burr
+L00194,Crack
+L00195,Plating defect
+L00195,Thread damage
+L00195,Plating defect
+L00195,Dimension out of tolerance
+L00195,Plating defect
+L00195,Thread damage
+L00195,Dimension out of tolerance
+L00195,Plating defect
+L00195,Thread damage
+L00195,Plating defect
+L00195,Wrong grade
+L00197,Thread damage
+L00197,Plating defect
+L00197,Thread damage
+L00197,Plating defect
+L00198,Load out of spec
+L00199,Burr
+L00199,Crack
+L00199,Dimension out of tolerance
+L00199,Burr
+L00199,Burr
+L00199,Crack
+L00200,Crack
+L00201,Dimension out of tolerance
+L00202,Rust
+L00202,Free-length error
+L00202,Rust
+L00203,Plating defect
+L00203,Thread damage
+L00203,Thread damage
+L00203,Thread damage
+L00203,Plating defect
+L00203,Plating defect
+L00203,Thread damage
+L00204,Surface scratch
+L00204,Burr
+L00204,Dimension out of tolerance
+L00204,Dimension out of tolerance
+L00204,Burr
+L00205,Load out of spec
+L00205,Dimension out of tolerance
+L00206,Dimension out of tolerance
+L00206,Thread damage
+L00207,Dimension out of tolerance
+L00209,Surface scratch
+L00209,Surface scratch
+L00209,Burr
+L00209,Crack
+L00212,Load out of spec
+L00212,Load out of spec
+L00212,Load out of spec
+L00213,Plating defect
+L00214,Surface scratch
+L00214,Surface scratch
+L00214,Dimension out of tolerance
+L00216,Dimension out of tolerance
+L00219,Free-length error
+L00221,Dimension out of tolerance
+L00225,Thread damage
+L00225,Thread damage
+L00228,Plating defect
+L00228,Dimension out of tolerance
+L00230,Plating defect
+L00231,Load out of spec
+L00232,Rust
+L00232,Free-length error
+L00233,Rust
+L00236,Plating defect
+L00237,Free-length error
+L00237,Free-length error
+L00237,Dimension out of tolerance
+L00237,Load out of spec
+L00240,Dimension out of tolerance
+L00240,Crack
+L00240,Burr
+L00240,Crack
+L00241,Surface scratch
+L00241,Burr
+L00241,Crack
+L00242,Plating defect
+L00243,Crack
+L00243,Crack
+L00244,Short shot
+L00244,Dimension out of tolerance
+L00245,Burr
+L00246,Crack
+L00246,Crack
+L00247,Rust
+L00248,Surface scratch
+L00248,Dimension out of tolerance
+L00248,Burr
+L00248,Burr
+L00250,Free-length error
+L00250,Load out of spec
+L00252,Flash
+L00254,Dimension out of tolerance
+L00254,Burr
+L00254,Dimension out of tolerance
+L00255,Burr
+L00255,Burr
+L00255,Burr
+L00258,Dimension out of tolerance
+L00260,Crack
+L00260,Surface scratch
+L00260,Burr
+L00260,Dimension out of tolerance
+L00261,Dimension out of tolerance
+L00261,Crack
+L00263,Surface scratch
+L00264,Load out of spec
+L00265,Thread damage
+L00266,Dimension out of tolerance
+L00269,Flash
+L00269,Flash
+L00269,Short shot
+L00272,Dimension out of tolerance
+L00273,Short shot
+L00273,Flash
+L00276,Burr
+L00280,Plating defect
+L00282,Flash
+L00284,Short shot
+L00284,Flash
+L00285,Rust
+L00285,Free-length error
+L00287,Load out of spec
+L00289,Colour variation
+L00291,Thread damage
+L00292,Dimension out of tolerance
+L00294,Load out of spec
+L00294,Load out of spec
+L00295,Thread damage
+L00295,Plating defect
+L00296,Flash
+L00298,Dimension out of tolerance
+L00298,Thread damage
+L00301,Dimension out of tolerance
+L00301,Plating defect
+L00301,Dimension out of tolerance
+L00302,Dimension out of tolerance
+L00306,Short shot
+L00310,Flash
+L00310,Short shot
+L00311,Burr
+L00311,Dimension out of tolerance
+L00312,Free-length error
+L00312,Free-length error
+L00312,Load out of spec
+L00312,Load out of spec
+L00312,Free-length error
+L00313,Burr
+L00318,Dimension out of tolerance
+L00319,Dimension out of tolerance
+L00321,Dimension out of tolerance
+L00321,Burr
+L00324,Surface finish
+L00325,Dimension out of tolerance
+L00326,Dimension out of tolerance
+L00331,Burr
+L00331,Burr
+L00333,Surface finish
+L00339,Dimension out of tolerance
+L00340,Surface finish
+L00346,Burr
+L00348,Surface finish
+L00349,Dimension out of tolerance
+L00350,Burr
+L00354,Dimension out of tolerance
+L00363,Dimension out of tolerance
+L00363,Surface finish
+L00369,Thread damage
+L00371,Dimension out of tolerance
+L00371,Dimension out of tolerance
+L00371,Surface finish
+L00373,Dimension out of tolerance
+L00374,Dimension out of tolerance
+L00375,Surface finish
+L00379,Surface finish
+L00380,Burr
+L00380,Thread damage
+L00380,Surface finish
+L00381,Thread damage
+L00382,Thread damage
+L00382,Surface finish
+L00384,Dimension out of tolerance
+L00384,Burr
+L00384,Dimension out of tolerance
+L00384,Burr
+L00387,Thread damage
+L00388,Surface finish
+L00388,Surface finish
+L00390,Burr
+L00390,Burr
+L00391,Thread damage
+L00391,Wrong grade
+L00391,Plating defect
+L00392,Surface finish
+L00392,Surface finish
+L00393,Dimension out of tolerance
+L00393,Burr
+L00393,Dimension out of tolerance
+L00393,Dimension out of tolerance
+L00394,Dimension out of tolerance
+L00396,Dimension out of tolerance
+L00396,Dimension out of tolerance
+L00397,Burr
+L00398,Burr
+L00402,Dimension out of tolerance
+L00402,Dimension out of tolerance
+L00402,Thread damage
+L00403,Crack
+L00404,Wrong grade
+L00404,Dimension out of tolerance
+L00405,Burr
+L00406,Thread damage
+L00406,Surface finish
+L00407,Dimension out of tolerance
+L00407,Surface finish
+L00409,Wrong grade
+L00409,Plating defect
+L00409,Plating defect
+L00410,Dimension out of tolerance
+L00411,Plating defect
+L00412,Dimension out of tolerance
+L00412,Dimension out of tolerance
+L00413,Dimension out of tolerance
+L00413,Dimension out of tolerance
+L00413,Burr
+L00413,Surface finish
+L00413,Surface finish
+L00413,Surface finish
+L00413,Dimension out of tolerance
+L00414,Dimension out of tolerance
+L00416,Crack
+L00419,Surface finish
+L00423,Burr
+L00423,Dimension out of tolerance
+L00425,Burr
+L00425,Dimension out of tolerance
+L00425,Dimension out of tolerance
+L00425,Surface finish
+L00425,Surface finish
+L00426,Dimension out of tolerance
+L00426,Wrong grade
+L00426,Wrong grade
+L00427,Crack
+L00429,Thread damage
+L00429,Thread damage
+L00429,Plating defect
+L00429,Plating defect
+L00430,Surface finish
+L00430,Dimension out of tolerance
+L00430,Dimension out of tolerance
+L00430,Surface finish
+L00430,Surface finish
+L00430,Surface finish
+L00430,Burr
+L00434,Dimension out of tolerance
+L00434,Dimension out of tolerance
+L00434,Burr
+L00434,Dimension out of tolerance
+L00435,Surface finish
+L00436,Plating defect
+L00439,Crack
+L00441,Burr
+L00441,Crack
+L00441,Crack
+L00441,Burr
+L00442,Plating defect
+L00444,Surface finish
+L00444,Surface finish
+L00446,Dimension out of tolerance
+L00448,Surface finish
+L00450,Thread damage
+L00450,Dimension out of tolerance
+L00451,Burr
+L00453,Thread damage
+L00455,Plating defect
+L00456,Surface finish
+L00457,Surface finish
+L00457,Dimension out of tolerance
+L00458,Flash
+L00460,Short shot
+L00462,Flash
+L00465,Dimension out of tolerance
+L00465,Thread damage
+L00467,Thread damage
+L00467,Dimension out of tolerance
+L00467,Plating defect
+L00469,Loose crimp
+L00471,Loose crimp
+L00471,Loose crimp
+L00472,Wrong connector
+L00474,Plating defect
+L00475,Thread damage
+L00475,Thread damage
+L00475,Thread damage
+L00476,Dimension out of tolerance
+L00479,Short shot
+L00480,Flash
+L00480,Flash
+L00480,Short shot
+L00480,Colour variation
+L00481,Insulation damage
+L00483,Dimension out of tolerance
+L00483,Short shot
+L00484,Wrong grade
+L00484,Dimension out of tolerance
+L00484,Thread damage
+L00484,Plating defect
+L00486,Plating defect
+L00487,Short shot
+L00487,Short shot
+L00488,Flash
+L00490,Dimension out of tolerance
+L00490,Flash
+L00490,Short shot
+L00490,Dimension out of tolerance
+L00491,Short shot
+L00491,Short shot
+L00492,Short shot
+L00493,Insulation damage
+L00500,Plating defect
+L00500,Thread damage
+L00500,Thread damage
+L00500,Thread damage
+L00502,Flash
+L00503,Flash
+L00503,Colour variation
+L00504,Continuity fail
+L00504,Loose crimp
+L00505,Dimension out of tolerance
+L00505,Dimension out of tolerance
+L00505,Short shot
+L00507,Loose crimp
+L00507,Wrong connector
+L00507,Insulation damage
+L00509,Short shot
+L00510,Dimension out of tolerance
+L00510,Short shot
+L00511,Thread damage
+L00511,Thread damage
+L00511,Thread damage
+L00512,Continuity fail
+L00513,Thread damage
+L00513,Wrong grade
+L00515,Wrong connector
+L00515,Wrong connector
+L00515,Wrong connector
+L00517,Plating defect
+L00518,Short shot
+L00519,Dimension out of tolerance
+L00520,Plating defect
+L00521,Short shot
+L00521,Dimension out of tolerance
+L00521,Flash
+L00521,Flash
+L00522,Wrong grade
+L00522,Thread damage
+L00522,Dimension out of tolerance
+L00523,Thread damage
+L00524,Flash
+L00524,Flash
+L00524,Flash
+L00525,Wrong grade
+L00527,Flash
+L00530,Short shot
+L00530,Short shot
+L00531,Loose crimp
+L00531,Loose crimp
+L00531,Insulation damage
+L00533,Plating defect
+L00534,Short shot
+L00535,Insulation damage
+L00535,Wrong connector
+L00536,Thread damage
+L00536,Thread damage
+L00536,Dimension out of tolerance
+L00536,Dimension out of tolerance
+L00536,Plating defect
+L00536,Thread damage
+L00539,Thread damage
+L00539,Dimension out of tolerance
+L00539,Dimension out of tolerance
+L00539,Dimension out of tolerance
+L00539,Thread damage
+L00539,Thread damage
+L00539,Dimension out of tolerance
+L00540,Loose crimp
+L00540,Insulation damage
+L00540,Wrong connector
+L00540,Loose crimp
+L00540,Loose crimp
+L00541,Wrong connector
+L00541,Wrong connector
+L00541,Wrong connector
+L00541,Insulation damage
+L00541,Loose crimp
+L00542,Thread damage
+L00542,Dimension out of tolerance
+L00542,Burr
+L00542,Surface finish
+L00543,Dimension out of tolerance
+L00543,Thread damage
+L00543,Dimension out of tolerance
+L00543,Burr
+L00543,Burr
+L00543,Dimension out of tolerance
+L00543,Dimension out of tolerance
+L00543,Surface finish
+L00544,Loose crimp
+L00544,Wrong connector
+L00544,Wrong connector
+L00544,Continuity fail
+L00545,Dimension out of tolerance
+L00545,Dimension out of tolerance
+L00545,Surface finish
+L00545,Surface finish
+L00546,Thread damage
+L00546,Dimension out of tolerance
+L00546,Thread damage
+L00547,Continuity fail
+L00547,Insulation damage
+L00548,Loose crimp
+L00548,Loose crimp
+L00548,Wrong connector
+L00549,Loose crimp
+L00549,Loose crimp
+L00549,Loose crimp
+L00549,Continuity fail
+L00549,Insulation damage
+L00549,Wrong connector
+L00550,Plating defect
+L00550,Thread damage
+L00550,Plating defect
+L00550,Plating defect
+L00550,Wrong grade
+L00550,Plating defect
+L00550,Plating defect
+L00551,Burr
+L00551,Burr
+L00551,Dimension out of tolerance
+L00552,Plating defect
+L00553,Loose crimp
+L00553,Loose crimp
+L00553,Wrong connector
+L00553,Insulation damage
+L00554,Dimension out of tolerance
+L00554,Surface finish
+L00554,Burr
+L00554,Thread damage
+L00554,Thread damage
+L00554,Dimension out of tolerance
+L00554,Dimension out of tolerance
+L00554,Dimension out of tolerance
+L00554,Burr
+L00554,Dimension out of tolerance
+L00554,Dimension out of tolerance
+L00555,Dimension out of tolerance
+L00555,Thread damage
+L00555,Dimension out of tolerance
+L00555,Dimension out of tolerance
+L00555,Surface finish
+L00555,Thread damage
+L00555,Surface finish
+L00555,Thread damage
+L00556,Burr
+L00556,Surface finish
+L00556,Burr
+L00556,Dimension out of tolerance
+L00556,Dimension out of tolerance
+L00556,Surface finish
+L00556,Dimension out of tolerance
+L00556,Burr
+L00556,Dimension out of tolerance
+L00556,Surface finish
+L00556,Dimension out of tolerance
+L00556,Dimension out of tolerance
+L00556,Surface finish
+L00557,Thread damage
+L00557,Wrong grade
+L00557,Thread damage
+L00557,Thread damage
+L00557,Dimension out of tolerance
+L00557,Dimension out of tolerance
+L00557,Thread damage
+L00557,Dimension out of tolerance
+L00557,Plating defect
+L00557,Dimension out of tolerance
+L00558,Thread damage
+L00558,Dimension out of tolerance
+L00558,Wrong grade
+L00558,Dimension out of tolerance
+L00558,Wrong grade
+L00558,Wrong grade
+L00559,Dimension out of tolerance
+L00559,Surface finish
+L00560,Dimension out of tolerance
+L00560,Plating defect
+L00560,Wrong grade
+L00560,Dimension out of tolerance
+L00560,Plating defect
+L00560,Thread damage
+L00560,Thread damage
+L00560,Thread damage
+L00560,Dimension out of tolerance
+L00560,Dimension out of tolerance
+L00560,Thread damage
+L00560,Plating defect
+L00560,Thread damage
+L00560,Thread damage
+L00560,Wrong grade
+L00561,Dimension out of tolerance
+L00561,Thread damage
+L00561,Plating defect
+L00561,Dimension out of tolerance
+L00561,Plating defect
+L00561,Wrong grade
+L00561,Thread damage
+L00561,Dimension out of tolerance
+L00562,Plating defect
+L00562,Thread damage
+L00562,Plating defect
+L00562,Thread damage
+L00562,Dimension out of tolerance
+L00562,Wrong grade
+L00562,Thread damage
+L00562,Plating defect
+L00562,Thread damage
+L00562,Thread damage
+L00562,Thread damage
+L00562,Thread damage
+L00564,Thread damage
+L00564,Thread damage
+L00564,Wrong grade
+L00564,Dimension out of tolerance
+L00564,Thread damage
+L00564,Wrong grade
+L00564,Plating defect
+L00564,Thread damage
+L00564,Plating defect
+L00565,Dimension out of tolerance
+L00565,Dimension out of tolerance
+L00566,Plating defect
+L00566,Wrong grade
+L00566,Dimension out of tolerance
+L00566,Thread damage
+L00567,Wrong connector
+L00567,Loose crimp
+L00567,Insulation damage
+L00567,Wrong connector
+L00567,Loose crimp
+L00567,Wrong connector
+L00567,Continuity fail
+L00568,Thread damage
+L00569,Thread damage
+L00569,Dimension out of tolerance
+L00569,Thread damage
+L00569,Wrong grade
+L00570,Thread damage
+L00570,Thread damage
+L00570,Thread damage
+L00570,Plating defect
+L00570,Thread damage
+L00570,Plating defect
+L00571,Wrong grade
+L00571,Thread damage
+L00571,Dimension out of tolerance
+L00571,Thread damage
+L00571,Plating defect
+L00571,Thread damage
+L00571,Wrong grade
+L00571,Dimension out of tolerance
+L00571,Thread damage
+L00571,Thread damage
+L00571,Plating defect
+L00572,Thread damage
+L00572,Dimension out of tolerance
+L00572,Wrong grade
+L00572,Plating defect
+L00573,Dimension out of tolerance
+L00573,Dimension out of tolerance
+L00574,Wrong grade
+L00576,Insulation damage
+L00576,Loose crimp
+L00576,Wrong connector
+L00577,Loose crimp
+L00577,Wrong connector
+L00577,Insulation damage
+L00578,Thread damage
+L00578,Surface finish
+L00578,Surface finish
+L00578,Surface finish
+L00579,Burr
+L00579,Surface finish
+L00580,Dimension out of tolerance
+L00580,Dimension out of tolerance
+L00580,Burr
+L00580,Surface finish
+L00580,Thread damage
+L00580,Dimension out of tolerance
+L00580,Surface finish
+L00580,Burr
+L00580,Dimension out of tolerance
+L00580,Thread damage
+L00580,Surface finish
+L00581,Burr
+L00581,Surface finish
+L00581,Burr
+L00582,Thread damage
+L00582,Dimension out of tolerance
+L00582,Dimension out of tolerance
+L00583,Thread damage
+L00583,Surface finish
+L00583,Surface finish
+L00583,Burr
+L00583,Surface finish
+L00583,Surface finish
+L00583,Surface finish
+L00583,Surface finish
+L00583,Surface finish
+L00583,Dimension out of tolerance
+L00584,Surface finish
+L00585,Dimension out of tolerance
+L00585,Wrong grade
+L00585,Thread damage
+L00586,Dimension out of tolerance
+L00586,Thread damage
+L00586,Plating defect
+L00587,Wrong connector
+L00587,Loose crimp
+L00587,Insulation damage
+L00588,Thread damage
+L00588,Wrong grade
+L00588,Thread damage
+L00588,Thread damage
+L00589,Burr
+L00589,Surface finish
+L00589,Burr
+L00589,Surface finish
+L00589,Surface finish
+L00589,Surface finish
+L00590,Loose crimp
+L00590,Wrong connector
+L00590,Loose crimp
+L00591,Wrong connector
+L00591,Wrong connector
+L00591,Wrong connector
+L00591,Wrong connector
+L00591,Wrong connector
+L00591,Loose crimp
+L00592,Loose crimp
+L00592,Insulation damage
+L00593,Plating defect
+L00593,Plating defect
+L00593,Thread damage
+L00593,Plating defect
+L00593,Thread damage
+L00594,Dimension out of tolerance
+L00594,Dimension out of tolerance
+L00594,Burr
+L00594,Dimension out of tolerance
+L00594,Surface finish
+L00594,Surface finish
+L00594,Dimension out of tolerance
+L00595,Continuity fail
+L00595,Loose crimp
+L00595,Loose crimp
+L00595,Continuity fail
+L00596,Dimension out of tolerance
+L00596,Burr
+L00596,Surface finish
+L00596,Dimension out of tolerance
+L00596,Dimension out of tolerance
+L00596,Dimension out of tolerance
+L00596,Dimension out of tolerance
+L00597,Loose crimp
+L00598,Plating defect
+L00599,Wrong connector
+L00599,Continuity fail
+L00599,Continuity fail
+L00599,Loose crimp
+L00599,Loose crimp
+L00599,Loose crimp
+L00599,Loose crimp
+L00600,Plating defect
+L00600,Plating defect
+L00601,Dimension out of tolerance
+L00601,Wrong grade
+L00601,Plating defect
+L00602,Plating defect
+L00602,Thread damage
+L00602,Plating defect
+L00602,Dimension out of tolerance
+L00603,Dimension out of tolerance
+L00603,Colour variation
+L00605,Dimension out of tolerance
+L00609,Load out of spec
+L00611,Thread damage
+L00612,Load out of spec
+L00615,Flash
+L00621,Rust
+L00622,Plating defect
+L00629,Free-length error
+L00631,Thread damage
+L00633,Burr
+L00633,Surface finish
+L00633,Dimension out of tolerance
+L00633,Burr
+L00635,Dimension out of tolerance
+L00635,Burr
+L00636,Plating defect
+L00638,Dimension out of tolerance
+L00638,Dimension out of tolerance
+L00640,Dimension out of tolerance
+L00647,Flash
+L00647,Colour variation
+L00648,Load out of spec
+L00656,Surface finish
+L00664,Thread damage
+L00667,Thread damage
+L00667,Burr
+L00668,Short shot
+L00670,Thread damage
+L00670,Plating defect
+L00672,Burr
+L00674,Flash
+L00674,Short shot
+L00674,Dimension out of tolerance
+L00677,Crack
+L00682,Dimension out of tolerance
+L00683,Dimension out of tolerance
+L00685,Thread damage
+L00686,Short shot
+L00688,Load out of spec
+L00692,Flash
+L00692,Flash
+L00693,Burr
+L00694,Dimension out of tolerance
+L00694,Dimension out of tolerance
+L00696,Crack
+L00696,Dimension out of tolerance
+L00697,Rust
+L00699,Burr
+L00699,Surface finish
+L00701,Flash
+L00704,Dimension out of tolerance
+L00705,Loose crimp
+L00707,Short shot
+L00708,Colour variation
+L00708,Flash
+L00709,Burr
+L00709,Dimension out of tolerance
+L00712,Short shot
+L00715,Flash
+L00715,Dimension out of tolerance
+L00716,Dimension out of tolerance
+L00716,Surface finish
+L00719,Continuity fail
+L00719,Loose crimp
+L00719,Wrong connector
+L00724,Burr
+L00729,Wrong connector
+L00729,Continuity fail
+L00730,Short shot
+L00733,Thread damage
+L00734,Short shot
+L00735,Free-length error
+L00737,Burr
+L00738,Thread damage
+L00740,Flash
+L00745,Wrong connector
+L00745,Loose crimp
+L00746,Wrong connector
+L00746,Continuity fail
+L00748,Insulation damage
+L00749,Insulation damage
+L00750,Colour variation
+L00750,Short shot
+L00751,Dimension out of tolerance
+L00752,Dimension out of tolerance
+L00755,Dimension out of tolerance
+L00756,Flash
+L00757,Flash
+L00757,Dimension out of tolerance
+L00760,Surface finish
+L00762,Burr
+L00762,Surface finish
+L00762,Burr
+L00762,Thread damage
+L00763,Wrong connector
+L00763,Loose crimp
+L00763,Wrong connector
+L00764,Surface finish
+L00764,Burr
+L00766,Colour variation
+L00766,Flash
+L00768,Load out of spec
+L00770,Burr
+L00771,Short shot
+L00773,Wrong grade
+L00777,Dimension out of tolerance
+L00778,Loose crimp
+L00778,Insulation damage
+L00778,Wrong connector
+L00779,Flash
+L00783,Flash
+L00784,Flash
+L00786,Flash
+L00789,Flash
+L00789,Flash
+L00789,Dimension out of tolerance
+L00790,Burr
+L00790,Burr
+L00791,Surface finish
+L00796,Wrong connector
+L00801,Dimension out of tolerance
+L00804,Wrong grade
+L00804,Plating defect
+L00804,Plating defect
+L00806,Wrong connector
+L00806,Loose crimp
+L00807,Short shot
+L00808,Plating defect
+L00808,Thread damage
+L00808,Plating defect
+L00820,Surface finish
+L00822,Dimension out of tolerance
+L00829,Loose crimp
+L00830,Thread damage
+L00830,Dimension out of tolerance
+L00831,Dimension out of tolerance
+L00832,Loose crimp
+L00833,Short shot
+L00836,Surface finish
+L00838,Crack
+L00838,Dimension out of tolerance
+L00840,Wrong connector
+L00840,Wrong connector
+L00840,Wrong connector
+L00840,Insulation damage
+L00842,Free-length error
+L00842,Load out of spec
+L00843,Rust
+L00846,Burr
+L00847,Insulation damage
+L00847,Loose crimp
+L00847,Insulation damage
+L00847,Loose crimp
+L00848,Burr
+L00850,Insulation damage
+L00850,Loose crimp
+L00851,Free-length error
+L00851,Load out of spec
+L00851,Load out of spec
+L00851,Dimension out of tolerance
+L00853,Burr
+L00853,Burr
+L00854,Dimension out of tolerance
+L00854,Burr
+L00855,Loose crimp
+L00855,Insulation damage
+L00855,Wrong connector
+L00856,Surface scratch
+L00856,Dimension out of tolerance
+L00857,Loose crimp
+L00857,Loose crimp
+L00857,Wrong connector
+L00858,Loose crimp
+L00860,Load out of spec
+L00861,Loose crimp
+L00862,Dimension out of tolerance
+L00863,Insulation damage
+L00863,Loose crimp
+L00865,Loose crimp
+L00868,Load out of spec
+L00868,Free-length error
+L00868,Load out of spec
+L00870,Load out of spec
+L00870,Dimension out of tolerance
+L00870,Rust
+L00870,Free-length error
+L00871,Burr
+L00872,Dimension out of tolerance
+L00874,Dimension out of tolerance
+L00874,Burr
+L00874,Dimension out of tolerance
+L00874,Crack
+L00874,Surface scratch
+L00878,Loose crimp
+L00878,Loose crimp
+L00878,Continuity fail
+L00882,Dimension out of tolerance
+L00882,Dimension out of tolerance
+L00886,Loose crimp
+L00886,Loose crimp
+L00886,Loose crimp
+L00887,Wrong connector
+L00887,Continuity fail
+L00888,Burr
+L00888,Dimension out of tolerance
+L00889,Dimension out of tolerance
+L00890,Load out of spec
+L00894,Insulation damage
+L00895,Dimension out of tolerance
+L00896,Load out of spec
+L00897,Wrong connector
+L00899,Loose crimp
+L00900,Loose crimp
+L00903,Crack
+L00903,Dimension out of tolerance
+L00904,Continuity fail
+L00905,Burr
+L00905,Surface scratch
+L00906,Wrong connector
+L00908,Rust
+L00909,Burr
+L00910,Continuity fail
+L00912,Insulation damage
+L00912,Loose crimp
+L00914,Burr
+L00915,Dimension out of tolerance
+L00916,Crack
+L00921,Dimension out of tolerance
+L00921,Burr
+L00922,Crack
+L00924,Burr
+L00926,Dimension out of tolerance
+L00926,Thread damage
+L00926,Thread damage
+L00926,Surface finish
+L00927,Dimension out of tolerance
+L00927,Dimension out of tolerance
+L00927,Surface scratch
+L00927,Burr
+L00929,Short shot
+L00930,Crack
+L00931,Load out of spec
+L00931,Load out of spec
+L00934,Dimension out of tolerance
+L00934,Thread damage
+L00936,Surface scratch
+L00936,Burr
+L00937,Dimension out of tolerance
+L00938,Flash
+L00939,Flash
+L00946,Crack
+L00948,Dimension out of tolerance
+L00948,Burr
+L00948,Dimension out of tolerance
+L00950,Burr
+L00951,Dimension out of tolerance
+L00953,Dimension out of tolerance
+L00954,Dimension out of tolerance
+L00955,Dimension out of tolerance
+L00956,Load out of spec
+L00958,Free-length error
+L00958,Load out of spec
+L00959,Crack
+L00961,Surface finish
+L00963,Burr
+L00963,Burr
+L00963,Burr
+L00963,Crack
+L00963,Burr
+L00964,Dimension out of tolerance
+L00965,Burr
+L00965,Surface finish
+L00966,Dimension out of tolerance
+L00968,Surface scratch
+L00970,Thread damage
+L00970,Surface finish
+L00971,Flash
+L00972,Load out of spec
+L00975,Dimension out of tolerance
+L00976,Short shot
+L00976,Colour variation
+L00976,Short shot
+L00978,Dimension out of tolerance
+L00978,Crack
+L00979,Short shot
+L00979,Flash
+L00980,Dimension out of tolerance
+L00980,Dimension out of tolerance
+L00983,Dimension out of tolerance
+L00986,Dimension out of tolerance
+L00986,Burr
+L00986,Dimension out of tolerance
+L00986,Burr
+L00987,Short shot
+L00987,Flash
+L00987,Colour variation
+L00987,Dimension out of tolerance
+L00987,Short shot
+L00988,Plating defect
+L00988,Wrong grade
+L00988,Dimension out of tolerance
+L00988,Wrong grade
+L00988,Dimension out of tolerance
+L00988,Wrong grade
+L00989,Burr
+L00990,Burr
+L00990,Dimension out of tolerance
+L00990,Burr
+L00990,Dimension out of tolerance
+L00990,Burr
+L00990,Burr
+L00991,Short shot
+L00991,Colour variation
+L00991,Short shot
+L00991,Dimension out of tolerance
+L00991,Colour variation
+L00991,Dimension out of tolerance
+L00991,Short shot
+L00992,Short shot
+L00992,Flash
+L00992,Short shot
+L00994,Flash
+L00995,Dimension out of tolerance
+L00996,Plating defect
+L00996,Thread damage
+L00996,Thread damage
+L00997,Thread damage
+L00998,Dimension out of tolerance
+L00998,Colour variation
+L00998,Short shot
+L00998,Short shot
+L00999,Plating defect
+L00999,Dimension out of tolerance
+L01000,Surface scratch
+L01000,Burr
+L01000,Burr
+L01001,Surface scratch
+L01001,Crack
+L01001,Burr
+L01001,Burr
+L01001,Surface scratch
+L01002,Flash
+L01002,Flash
+L01003,Wrong grade
+L01004,Flash
+L01004,Dimension out of tolerance
+L01004,Flash
+L01004,Flash
+L01006,Crack
+L01006,Burr
+L01007,Short shot
+L01007,Short shot
+L01008,Dimension out of tolerance
+L01008,Plating defect
+L01008,Plating defect
+L01009,Plating defect
+L01010,Burr
+L01010,Surface scratch
+L01010,Dimension out of tolerance
+L01010,Burr
+L01010,Surface scratch
+L01010,Dimension out of tolerance
+L01011,Flash
+L01011,Short shot
+L01011,Dimension out of tolerance
+L01013,Crack
+L01013,Dimension out of tolerance
+L01013,Burr
+L01013,Surface scratch
+L01013,Crack
+L01013,Burr
+L01013,Surface scratch
+L01013,Burr
+L01013,Dimension out of tolerance
+L01014,Short shot
+L01015,Wrong grade
+L01015,Dimension out of tolerance
+L01016,Crack
+L01016,Crack
+L01017,Thread damage
+L01018,Flash
+L01018,Dimension out of tolerance
+L01019,Thread damage
+L01019,Plating defect
+L01019,Thread damage
+L01019,Plating defect
+L01021,Flash
+L01021,Short shot
+L01021,Short shot
+L01022,Colour variation
+L01022,Flash
+L01022,Short shot
+L01022,Colour variation
+L01022,Flash
+L01023,Plating defect
+L01023,Plating defect
+L01023,Dimension out of tolerance
+L01023,Thread damage
+L01024,Thread damage
+L01025,Short shot
+L01025,Flash
+L01026,Flash
+L01026,Flash
+L01026,Flash
+L01027,Burr
+L01027,Crack
+L01027,Burr
+L01029,Dimension out of tolerance
+L01030,Burr
+L01030,Dimension out of tolerance
+L01031,Dimension out of tolerance
+L01031,Short shot
+L01031,Flash
+L01031,Colour variation
+L01031,Short shot
+L01031,Dimension out of tolerance
+L01032,Flash
+L01032,Colour variation
+L01034,Dimension out of tolerance
+L01034,Dimension out of tolerance
+L01034,Colour variation
+L01034,Dimension out of tolerance
+L01035,Dimension out of tolerance
+L01037,Dimension out of tolerance
+L01037,Thread damage
+L01037,Dimension out of tolerance
+L01037,Plating defect
+L01038,Dimension out of tolerance
+L01039,Flash
+L01040,Burr
+L01040,Dimension out of tolerance
+L01040,Dimension out of tolerance
+L01041,Dimension out of tolerance
+L01041,Crack
+L01043,Surface scratch
+L01044,Plating defect
+L01044,Dimension out of tolerance
+L01045,Dimension out of tolerance
+L01045,Thread damage
+L01045,Wrong grade
+L01046,Plating defect
+L01048,Wrong grade
+L01048,Dimension out of tolerance
+L01049,Flash
+L01050,Dimension out of tolerance
+L01050,Short shot
+L01050,Colour variation
+L01050,Flash
+L01050,Flash
+L01050,Dimension out of tolerance
+L01050,Short shot
+L01052,Short shot
+L01052,Flash
+L01053,Short shot
+L01053,Short shot
+L01054,Dimension out of tolerance
+L01054,Dimension out of tolerance
+L01055,Thread damage
+L01056,Dimension out of tolerance
+L01056,Plating defect
+L01056,Thread damage
+L01057,Insulation damage
+L01059,Insulation damage
+L01059,Insulation damage
+L01060,Dimension out of tolerance
+L01061,Dimension out of tolerance
+L01063,Dimension out of tolerance
+L01066,Flash
+L01068,Wrong connector
+L01069,Short shot
+L01071,Free-length error
+L01071,Rust
+L01078,Rust
+L01078,Load out of spec
+L01079,Rust
+L01079,Load out of spec
+L01079,Free-length error
+L01082,Surface finish
+L01083,Loose crimp
+L01086,Dimension out of tolerance
+L01089,Dimension out of tolerance
+L01090,Load out of spec
+L01094,Thread damage
+L01094,Burr
+L01099,Free-length error
+L01102,Surface finish
+L01102,Dimension out of tolerance
+L01104,Dimension out of tolerance
+L01104,Short shot
+L01105,Dimension out of tolerance
+L01106,Dimension out of tolerance
+L01107,Flash
+L01108,Flash
+L01110,Dimension out of tolerance
+L01111,Dimension out of tolerance
+L01114,Dimension out of tolerance
+L01115,Wrong connector
+L01119,Load out of spec
+L01119,Dimension out of tolerance
+L01119,Free-length error
+L01120,Burr
+L01121,Dimension out of tolerance
+L01121,Dimension out of tolerance
+L01123,Surface finish
+L01125,Continuity fail
+L01127,Load out of spec
+L01128,Rust
+L01131,Loose crimp
+L01133,Loose crimp
+L01134,Thread damage
+L01134,Surface finish
+L01134,Thread damage
+L01136,Colour variation
+L01136,Colour variation
+L01136,Short shot
+L01143,Thread damage
+L01149,Dimension out of tolerance
+L01150,Short shot
+L01150,Dimension out of tolerance
+L01151,Dimension out of tolerance
+L01157,Short shot
+L01157,Flash
+L01165,Short shot
+L01167,Dimension out of tolerance
+L01168,Wrong grade
+L01170,Crack
+L01172,Surface scratch
+L01172,Surface scratch
+L01175,Plating defect
+L01175,Dimension out of tolerance
+L01177,Plating defect
+L01182,Thread damage
+L01183,Thread damage
+L01183,Plating defect
+L01183,Thread damage
+L01187,Wrong grade
+L01187,Thread damage
+L01188,Surface scratch
+L01189,Thread damage
+L01192,Wrong grade
+L01195,Flash
+L01196,Crack
+L01197,Wrong grade
+L01197,Dimension out of tolerance
+L01203,Short shot
+L01204,Plating defect
+L01206,Dimension out of tolerance
+L01206,Short shot
+L01206,Flash
+L01206,Colour variation
+L01207,Thread damage
+L01210,Dimension out of tolerance
+L01213,Burr
+L01213,Burr
+L01214,Short shot
+L01214,Colour variation
+L01218,Colour variation
+L01219,Thread damage
+L01222,Wrong grade
+L01223,Thread damage
+L01224,Dimension out of tolerance
+L01226,Plating defect
+L01227,Thread damage
+L01227,Dimension out of tolerance
+L01228,Loose crimp
+L01229,Dimension out of tolerance
+L01230,Surface finish
+L01230,Dimension out of tolerance
+L01230,Surface finish
+L01230,Dimension out of tolerance
+L01231,Dimension out of tolerance
+L01231,Surface finish
+L01231,Surface finish
+L01232,Dimension out of tolerance
+L01232,Thread damage
+L01232,Plating defect
+L01233,Insulation damage
+L01233,Insulation damage
+L01234,Plating defect
+L01234,Plating defect
+L01235,Wrong connector
+L01236,Thread damage
+L01236,Plating defect
+L01240,Thread damage
+L01242,Continuity fail
+L01245,Burr
+L01245,Surface finish
+L01246,Dimension out of tolerance
+L01247,Thread damage
+L01249,Dimension out of tolerance
+L01250,Surface scratch
+L01253,Surface finish
+L01253,Burr
+L01255,Dimension out of tolerance
+L01255,Burr
+L01256,Thread damage
+L01256,Thread damage
+L01259,Wrong grade
+L01260,Dimension out of tolerance
+L01261,Loose crimp
+L01262,Thread damage
+L01263,Dimension out of tolerance
+L01264,Loose crimp
+L01264,Wrong connector
+L01265,Dimension out of tolerance
+L01267,Thread damage
+L01273,Plating defect
+L01274,Surface finish
+L01274,Dimension out of tolerance
+L01278,Dimension out of tolerance
+L01278,Plating defect
+L01280,Continuity fail
+L01280,Insulation damage
+L01283,Thread damage
+L01283,Dimension out of tolerance
+L01283,Burr
+L01285,Dimension out of tolerance
+L01291,Thread damage
+L01293,Burr
+L01293,Dimension out of tolerance
+L01293,Surface scratch
+L01295,Crack
+L01298,Thread damage
+L01299,Thread damage
+L01299,Burr
+L01301,Dimension out of tolerance
+L01302,Thread damage
+L01302,Thread damage
+L01304,Plating defect
+L01304,Thread damage
+L01305,Dimension out of tolerance
+L01305,Dimension out of tolerance
+L01305,Surface scratch

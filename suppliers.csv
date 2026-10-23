@@ -1,0 +1,18 @@
+supplier_id,supplier_name,city,tier,years_with_company
+S01,Apex Forge,Chennai,Tier-1,10
+S02,Bharat Castings,Bengaluru,Tier-2,7
+S03,Cobra Fasteners,Sriperumbudur,Tier-2,10
+S04,Deccan Rubber,Hosur,Tier-1,10
+S05,Eastern Stampings,Bengaluru,Tier-1,7
+S06,Falcon Plastics,Hosur,Tier-2,12
+S07,Giri Springs,Hyderabad,Tier-1,8
+S08,Horizon Wiring,Bengaluru,Tier-1,2
+S09,Indus Bearings,Pune,Tier-1,11
+S10,Jyoti Coatings,Hosur,Tier-2,9
+S11,Kaveri Gaskets,Coimbatore,Tier-2,9
+S12,Lotus Machining,Hyderabad,Tier-2,8
+S13,Meridian Seals,Aurangabad,Tier-2,8
+S14,Nova Pressings,Bengaluru,Tier-1,2
+S15,Orion Fittings,Hosur,Tier-1,8
+S16,Prime Alloys,Sriperumbudur,Tier-1,12
+S17,Quest Tooling,Hyderabad,Tier-1,5
